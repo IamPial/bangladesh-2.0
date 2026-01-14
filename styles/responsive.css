@@ -66,6 +66,9 @@
   }
 
   /* opinion section */
+  .opinion-container .section-heading {
+    text-align: center;
+  }
   .opinion-content {
     padding: 0px;
   }
