@@ -64,6 +64,22 @@
   .about-description .advisor-heading p {
     font-size: 0.8rem;
   }
+
+  /* opinion section */
+  .opinion-content {
+    padding: 0px;
+  }
+  .opinion-content .table-heading {
+    padding: 10px;
+  }
+  .opinion-content td {
+    padding: 10px;
+    font-size: 0.6rem;
+  }
+  .opinion-content td select {
+    padding: 10px 16px;
+    font-size: 0.6rem;
+  }
 }
 
-/* TODO: added about & opinion section  responsive*/
+/* Done: added about & opinion section  responsive*/
