@@ -19,10 +19,13 @@
   }
   .hero-content h2 {
     padding: 10px 20px;
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
   .hero-content .explore-btn {
     text-align: center;
+  }
+  .explore-btn .btn {
+    padding: 17px 16px;
   }
   .hero-img img {
     width: 100%;
