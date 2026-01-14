@@ -38,6 +38,32 @@
   .card-content {
     flex-direction: column;
   }
+
+  /* about section */
+  .about-content .section-heading {
+    text-align: center;
+  }
+  .about-content p {
+    text-align: center;
+  }
+  .about-card-content {
+    text-align: center;
+  }
+  .about-card {
+    flex-direction: column;
+  }
+  .about-description {
+    padding: 20px 24px;
+  }
+  .about-description p.quote-para {
+    font-size: 0.8rem;
+  }
+  .about-description .advisor-heading {
+    margin-top: 400px;
+  }
+  .about-description .advisor-heading p {
+    font-size: 0.8rem;
+  }
 }
 
 /* TODO: added about & opinion section  responsive*/
