@@ -72,13 +72,13 @@ nav {
   padding: 24px 0;
 }
 .nav-heading h2 {
-  font-size: 32px;
+  font-size: 2rem;
   font-weight: 700;
   color: #0e0e0e;
 }
 .signIn-btn {
   padding: 15px 30px;
-  font-size: 18px;
+  font-size: 1.2rem;
   font-weight: 600;
   border: 1px solid #006a50;
   color: #006a50;
@@ -101,13 +101,13 @@ nav {
   max-width: 622px;
 }
 .hero-content h4 {
-  font-size: 24px;
+  font-size: 1.5rem;
   font-weight: 600;
   color: #0e0e0e50;
   margin-bottom: 16px;
 }
 .hero-content h2 {
-  font-size: 56px;
+  font-size: 3.5rem;
   color: #0e0e0e;
   margin-bottom: 24px;
   font-weight: 800;
@@ -147,7 +147,7 @@ nav {
 .about-content p {
   margin-bottom: 32px;
   line-height: 24px;
-  font-size: 16px;
+  font-size: 1rem;
   color: #0e0e0e;
   opacity: 0.7;
 }
@@ -172,7 +172,7 @@ nav {
   position: relative;
 }
 .about-description p.quote-para {
-  font-size: 16px;
+  font-size: 1rem;
   color: rgba(14, 14, 14, 0.8);
   line-height: 24px;
   position: absolute;
@@ -183,7 +183,7 @@ nav {
 }
 .about-description .advisor-heading h4 {
   color: rgba(14, 14, 14, 0.8);
-  font-size: 20;
+  font-size: 1.4rem;
   font-weight: 600;
 }
 .about-description .advisor-heading p {
@@ -220,7 +220,7 @@ nav {
 }
 .opinion-content .table-heading h3 {
   color: #0e0e0e;
-  font-size: 20px;
+  font-size: 1.4rem;
   font-weight: 600;
 }
 .opinion-content table {
@@ -231,7 +231,7 @@ nav {
 .opinion-content td {
   border: 1px solid red;
   padding: 24px;
-  font-size: 16px;
+  font-size: 1rem;
   color: #0e0e0e;
   font-weight: 600;
   border: 1px solid rgba(14, 14, 14, 0.15);
@@ -241,7 +241,7 @@ nav {
   padding: 10px 16px;
   background-color: #c6e4d6;
   color: #0e0e0e;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 500;
   border-radius: 4px;
   margin: 0 auto;
