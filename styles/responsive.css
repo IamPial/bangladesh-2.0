@@ -26,4 +26,11 @@
     width: 100%;
     margin-bottom: 30px;
   }
+  /* feature section */
+  .section-heading {
+    font-size: 1.6rem;
+  }
+  .card-content {
+    flex-direction: column;
+  }
 }
