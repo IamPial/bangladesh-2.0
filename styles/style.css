@@ -308,3 +308,53 @@ nav {
   color: #0e0e0e;
   opacity: 0.7;
 }
+
+/* donate Section */
+#donate {
+  padding: 80px 0;
+}
+.donate-area {
+  padding: 0 90px;
+}
+.donate-heading {
+  text-align: center;
+}
+.donate-heading h2 {
+  margin-bottom: 24px;
+}
+.donate-heading p {
+  line-height: 24px;
+  font-size: 1rem;
+  color: #0e0e0e;
+  opacity: 0.7;
+}
+.donate-amount h3 {
+  padding: 40px;
+  font-size: 2.5rem;
+  color: rgba(14, 14, 14, 0.8);
+  border: 1px solid red;
+  /* border: 1px solid rgba(14, 14, 14, 0.15); */
+  border-radius: 16px;
+  display: inline-block;
+  /* margin-right: 24px; */
+  margin: 32px 24px 32px 0;
+}
+.donate-amount h3:last-child {
+  margin-right: 0px;
+}
+
+.donate-form {
+  /* border: 5px solid red; */
+  padding: 0 20px;
+  text-align: center;
+}
+.donate-form input[type="text"] {
+  outline: none;
+  width: 100%;
+  font-size: 1.2rem;
+  padding: 20px;
+  margin-bottom: 32px;
+  text-align: center;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  color: rgba(14, 14, 14, 0.747);
+}
