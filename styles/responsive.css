@@ -1,0 +1,29 @@
+/* for small device  */
+@media screen and (max-width: 576px) {
+  /* nav Section */
+  .nav-heading h2 {
+    font-size: 1.8rem;
+  }
+  .signIn-btn {
+    padding: 8px 15px;
+  }
+  /* hero section */
+  #hero .hero-container {
+    padding: 0px 0px;
+    flex-direction: column;
+  }
+  .hero-content h4 {
+    padding: 20px;
+  }
+  .hero-content h2 {
+    padding: 10px 20px;
+    font-size: 3rem;
+  }
+  .hero-content .explore-btn {
+    text-align: center;
+  }
+  .hero-img img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+}
